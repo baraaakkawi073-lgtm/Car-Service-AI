@@ -1,0 +1,28 @@
+{
+  "counts": {
+    "new_photo_files": 23,
+    "existing_photo_files_replaced": 747,
+    "logo_path_issues_fixed": 9,
+    "brands_before": 50,
+    "brands_added": 37,
+    "logos_before": 50,
+    "logos_added": 39,
+    "logos_corrected": 7,
+    "models_before": 229,
+    "models_added": 542,
+    "photos_downloaded": 770,
+    "photos_connected": 770,
+    "duplicated_photo_files_replaced": 170,
+    "missing_photos": 1,
+    "missing_logos": 0
+  },
+  "missing": [
+    {
+      "brand": "JAC",
+      "model": "JS4",
+      "asset": "photo",
+      "reason": "Shared article; exact photograph still required"
+    }
+  ],
+  "duplicate_photo_groups": []
+}
