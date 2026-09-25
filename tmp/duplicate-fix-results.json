@@ -1,0 +1,659 @@
+{
+  "fixed": [],
+  "failed": [
+    [
+      "BMW",
+      "650i, B6",
+      "/image/vehicles/bmw/650i,-b6.webp",
+      "no-candidates"
+    ],
+    [
+      "BMW",
+      "750i, B7",
+      "/image/vehicles/bmw/750i,-b7.webp",
+      "no-candidates"
+    ],
+    [
+      "BMW",
+      "750Li, Alpina B7",
+      "/image/vehicles/bmw/750li,-alpina-b7.webp",
+      "no-candidates"
+    ],
+    [
+      "BMW",
+      "ActiveHybrid 7",
+      "/image/vehicles/bmw/activehybrid-7.webp",
+      "no-candidates"
+    ],
+    [
+      "BMW",
+      "Alpina B8",
+      "/image/vehicles/bmw/alpina-b8.webp",
+      "no-candidates"
+    ],
+    [
+      "Chevrolet",
+      "Hi-Cube",
+      "/image/vehicles/chevrolet/hi-cube.webp",
+      "no-candidates"
+    ],
+    [
+      "Chevrolet",
+      "Hearse/Limo Commercial Chassis",
+      "/image/vehicles/chevrolet/hearse-limo-commercial-chassis.webp",
+      "no-candidates"
+    ],
+    [
+      "Chevrolet",
+      "Silverado LTD",
+      "/image/vehicles/chevrolet/silverado-ltd.webp",
+      "no-candidates"
+    ],
+    [
+      "Maserati",
+      "TC",
+      "/image/vehicles/maserati/tc.webp",
+      "no-candidates"
+    ],
+    [
+      "Ferrari",
+      "Portofino M",
+      "/image/vehicles/ferrari/portofino-m.webp",
+      "no-candidates"
+    ],
+    [
+      "Ferrari",
+      "296 Speciale A",
+      "/image/vehicles/ferrari/296-speciale-a.webp",
+      "no-candidates"
+    ],
+    [
+      "Ferrari",
+      "308GTB Quattrovalvole",
+      "/image/vehicles/ferrari/308gtb-quattrovalvole.webp",
+      "no-candidates"
+    ],
+    [
+      "Ferrari",
+      "328 GTS",
+      "/image/vehicles/ferrari/328-gts.webp",
+      "no-candidates"
+    ],
+    [
+      "WHITEGMC",
+      "WIA",
+      "/image/vehicles/whitegmc/wia.webp",
+      "no-candidates"
+    ],
+    [
+      "Ford",
+      "Transit",
+      "/image/vehicles/ford/transit.webp",
+      "no-candidates"
+    ],
+    [
+      "Ford",
+      "Explorer Sport Trac",
+      "/image/vehicles/ford/explorer-sport-trac.webp",
+      "no-candidates"
+    ],
+    [
+      "Ford",
+      "GT MKII",
+      "/image/vehicles/ford/gt-mkii.webp",
+      "no-candidates"
+    ],
+    [
+      "GMC",
+      "Bus Chassis",
+      "/image/vehicles/gmc/bus-chassis.webp",
+      "no-candidates"
+    ],
+    [
+      "GMC",
+      "S15 Utility",
+      "/image/vehicles/gmc/s15-utility.webp",
+      "no-candidates"
+    ],
+    [
+      "GMC",
+      "Sierra Limited",
+      "/image/vehicles/gmc/sierra-limited.webp",
+      "no-candidates"
+    ],
+    [
+      "Hyundai",
+      "Elantra N",
+      "/image/vehicles/hyundai/elantra-n.webp",
+      "no-candidates"
+    ],
+    [
+      "Hyundai",
+      "Elantra Touring",
+      "/image/vehicles/hyundai/elantra-touring.webp",
+      "no-candidates"
+    ],
+    [
+      "Hyundai",
+      "Ioniq 6 N",
+      "/image/vehicles/hyundai/ioniq-6-n.webp",
+      "no-candidates"
+    ],
+    [
+      "Hyundai",
+      "Santa Fe XL",
+      "/image/vehicles/hyundai/santa-fe-xl.webp",
+      "no-candidates"
+    ],
+    [
+      "Lincoln",
+      "Mark LT",
+      "/image/vehicles/lincoln/mark-lt.webp",
+      "no-candidates"
+    ],
+    [
+      "Mitsubishi",
+      "Lancer SportBack",
+      "/image/vehicles/mitsubishi/lancer-sportback.webp",
+      "no-candidates"
+    ],
+    [
+      "Nissan",
+      "Sentra Classic",
+      "/image/vehicles/nissan/sentra-classic.webp",
+      "no-candidates"
+    ],
+    [
+      "Nissan",
+      "Kicks Play",
+      "/image/vehicles/nissan/kicks-play.webp",
+      "no-candidates"
+    ],
+    [
+      "Nissan",
+      "Rogue Sport",
+      "/image/vehicles/nissan/rogue-sport.webp",
+      "no-candidates"
+    ],
+    [
+      "Opel",
+      "Ampera-e EV",
+      "/image/vehicles/opel/ampera-e-ev.webp",
+      "no-candidates"
+    ],
+    [
+      "Ram",
+      "ProMaster 2500",
+      "/image/vehicles/ram/promaster-2500.webp",
+      "no-candidates"
+    ],
+    [
+      "Ram",
+      "ProMaster 3500",
+      "/image/vehicles/ram/promaster-3500.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Corolla Matrix",
+      "/image/vehicles/toyota/corolla-matrix.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Tercel",
+      "/image/vehicles/toyota/tercel.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Prius Prime (PHEV)",
+      "/image/vehicles/toyota/prius-prime-(phev).webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Scion iA",
+      "/image/vehicles/toyota/scion-ia.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Scion iM",
+      "/image/vehicles/toyota/scion-im.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Scion tC",
+      "/image/vehicles/toyota/scion-tc.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Scion xA",
+      "/image/vehicles/toyota/scion-xa.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Scion xD",
+      "/image/vehicles/toyota/scion-xd.webp",
+      "no-candidates"
+    ],
+    [
+      "Toyota",
+      "Van",
+      "/image/vehicles/toyota/van.webp",
+      "no-candidates"
+    ],
+    [
+      "Volkswagen",
+      "Golf III",
+      "/image/vehicles/volkswagen/golf-iii.webp",
+      "no-candidates"
+    ],
+    [
+      "Volkswagen",
+      "Golf SportWagen",
+      "/image/vehicles/volkswagen/golf-sportwagen.webp",
+      "no-candidates"
+    ],
+    [
+      "Volkswagen",
+      "Jetta Wagon",
+      "/image/vehicles/volkswagen/jetta-wagon.webp",
+      "no-candidates"
+    ],
+    [
+      "Volvo",
+      "Cab Over Engine HT",
+      "/image/vehicles/volvo/cab-over-engine-ht.webp",
+      "no-candidates"
+    ],
+    [
+      "Volvo",
+      "Cab Over Engine LT",
+      "/image/vehicles/volvo/cab-over-engine-lt.webp",
+      "no-candidates"
+    ],
+    [
+      "Volvo",
+      "VNL (4)",
+      "/image/vehicles/volvo/vnl-(4).webp",
+      "no-candidates"
+    ],
+    [
+      "Mini",
+      "Cooper Roadster",
+      "/image/vehicles/mini/cooper-roadster.webp",
+      "no-candidates"
+    ],
+    [
+      "Isuzu",
+      "FTR/FVR/EVR",
+      "/image/vehicles/isuzu/ftr-fvr-evr.webp",
+      "no-candidates"
+    ],
+    [
+      "Isuzu",
+      "NQR/NRR",
+      "/image/vehicles/isuzu/nqr-nrr.webp",
+      "no-candidates"
+    ],
+    [
+      "Isuzu",
+      "Rodeo/Amigo",
+      "/image/vehicles/isuzu/rodeo-amigo.webp",
+      "no-candidates"
+    ],
+    [
+      "Bugatti",
+      "Chiron Pur Sport",
+      "/image/vehicles/bugatti/chiron-pur-sport.webp",
+      "no-candidates"
+    ],
+    [
+      "Bugatti",
+      "Chiron Supersport",
+      "/image/vehicles/bugatti/chiron-supersport.webp",
+      "no-candidates"
+    ],
+    [
+      "Lotus",
+      "Turbo Esprit",
+      "/image/vehicles/lotus/turbo-esprit.webp",
+      "no-candidates"
+    ],
+    [
+      "Daewoo",
+      "Leganza V-200 & variants/derivatives",
+      "/image/vehicles/daewoo/leganza-v-200---variants-derivatives.webp",
+      "no-candidates"
+    ],
+    [
+      "BYD",
+      "Electric Truck Chassis",
+      "/image/vehicles/byd/electric-truck-chassis.webp",
+      "no-candidates"
+    ],
+    [
+      "Mahindra",
+      "Mahindra TR20",
+      "/image/vehicles/mahindra/mahindra-tr20.webp",
+      "no-candidates"
+    ],
+    [
+      "Mahindra",
+      "Mahindra TR40",
+      "/image/vehicles/mahindra/mahindra-tr40.webp",
+      "no-candidates"
+    ],
+    [
+      "ARMBRUSTER STAGEWAY",
+      "Cadillac Funeral Car",
+      "/image/vehicles/armbruster-stageway/cadillac-funeral-car.webp",
+      "no-candidates"
+    ],
+    [
+      "ARMBRUSTER STAGEWAY",
+      "Cadillac Limousine",
+      "/image/vehicles/armbruster-stageway/cadillac-limousine.webp",
+      "no-candidates"
+    ],
+    [
+      "ARMBRUSTER STAGEWAY",
+      "Cadillac Ski Cruiser",
+      "/image/vehicles/armbruster-stageway/cadillac-ski-cruiser.webp",
+      "no-candidates"
+    ],
+    [
+      "AUTOCAR",
+      "Xpeditor",
+      "/image/vehicles/autocar/xpeditor.webp",
+      "no-candidates"
+    ],
+    [
+      "AUTOCAR",
+      "K Medium",
+      "/image/vehicles/autocar/k-medium.webp",
+      "no-candidates"
+    ],
+    [
+      "AUTOCAR",
+      "K Short",
+      "/image/vehicles/autocar/k-short.webp",
+      "no-candidates"
+    ],
+    [
+      "BLUE BIRD",
+      "All American/TX4 (Canada)",
+      "/image/vehicles/blue-bird/all-american-tx4-(canada).webp",
+      "no-candidates"
+    ],
+    [
+      "BLUE BIRD",
+      "TC2000",
+      "/image/vehicles/blue-bird/tc2000.webp",
+      "no-candidates"
+    ],
+    [
+      "CHANJE",
+      "Chanje Truck",
+      "/image/vehicles/chanje/chanje-truck.webp",
+      "no-candidates"
+    ],
+    [
+      "DENNIS",
+      "Elite NAS1",
+      "/image/vehicles/dennis/elite-nas1.webp",
+      "no-candidates"
+    ],
+    [
+      "DENNIS EAGLE",
+      "Elite",
+      "/image/vehicles/dennis-eagle/elite.webp",
+      "no-candidates"
+    ],
+    [
+      "FALCON",
+      "Model 3",
+      "/image/vehicles/falcon/model-3.webp",
+      "no-candidates"
+    ],
+    [
+      "FALCON",
+      "Model 6",
+      "/image/vehicles/falcon/model-6.webp",
+      "no-candidates"
+    ],
+    [
+      "FALCON",
+      "Model 9",
+      "/image/vehicles/falcon/model-9.webp",
+      "no-candidates"
+    ],
+    [
+      "FREIGHTLINER",
+      "Electric 126\" Day cab",
+      "/image/vehicles/freightliner/electric-126-day-cab.webp",
+      "no-candidates"
+    ],
+    [
+      "FRONTLINE",
+      "Defense - Light",
+      "/image/vehicles/frontline/defense---light.webp",
+      "no-candidates"
+    ],
+    [
+      "FRONTLINE",
+      "Defense - Medium",
+      "/image/vehicles/frontline/defense---medium.webp",
+      "no-candidates"
+    ],
+    [
+      "HINO",
+      "L6/L7",
+      "/image/vehicles/hino/l6-l7.webp",
+      "no-candidates"
+    ],
+    [
+      "INTERNATIONAL",
+      "4700 Low Profile",
+      "/image/vehicles/international/4700-low-profile.webp",
+      "no-candidates"
+    ],
+    [
+      "INTERNATIONAL",
+      "COF-9670",
+      "/image/vehicles/international/cof-9670.webp",
+      "no-candidates"
+    ],
+    [
+      "PETERBILT",
+      "352",
+      "/image/vehicles/peterbilt/352.webp",
+      "no-candidates"
+    ],
+    [
+      "PETERBILT",
+      "353",
+      "/image/vehicles/peterbilt/353.webp",
+      "no-candidates"
+    ],
+    [
+      "INTERNATIONAL",
+      "Ford F450",
+      "/image/vehicles/international/ford-f450.webp",
+      "no-candidates"
+    ],
+    [
+      "KALMAR",
+      "Model 50",
+      "/image/vehicles/kalmar/model-50.webp",
+      "no-candidates"
+    ],
+    [
+      "KORANDO",
+      "Korando Family RHD",
+      "/image/vehicles/korando/korando-family-rhd.webp",
+      "no-candidates"
+    ],
+    [
+      "KORANDO",
+      "Korando LHD",
+      "/image/vehicles/korando/korando-lhd.webp",
+      "no-candidates"
+    ],
+    [
+      "MACK",
+      "RW",
+      "/image/vehicles/mack/rw.webp",
+      "no-candidates"
+    ],
+    [
+      "ND",
+      "RT - 1950",
+      "/image/vehicles/nd/rt---1950.webp",
+      "no-candidates"
+    ],
+    [
+      "ND",
+      "RT - 2600",
+      "/image/vehicles/nd/rt---2600.webp",
+      "no-candidates"
+    ],
+    [
+      "ND",
+      "RT - 3300",
+      "/image/vehicles/nd/rt---3300.webp",
+      "no-candidates"
+    ],
+    [
+      "ND",
+      "Terminal Tractor (XSPOTTER) On-Highway",
+      "/image/vehicles/nd/terminal-tractor-(xspotter)-on-highway.webp",
+      "no-candidates"
+    ],
+    [
+      "OLDSMOBILE",
+      "Cutlass Calais",
+      "/image/vehicles/oldsmobile/cutlass-calais.webp",
+      "no-candidates"
+    ],
+    [
+      "OLDSMOBILE",
+      "Cutlass Cruiser",
+      "/image/vehicles/oldsmobile/cutlass-cruiser.webp",
+      "no-candidates"
+    ],
+    [
+      "OLDSMOBILE",
+      "Cutlass Salon",
+      "/image/vehicles/oldsmobile/cutlass-salon.webp",
+      "no-candidates"
+    ],
+    [
+      "ORION BUS",
+      "Orion II",
+      "/image/vehicles/orion-bus/orion-ii.webp",
+      "no-candidates"
+    ],
+    [
+      "ORION BUS",
+      "Orion III (Ikarus)",
+      "/image/vehicles/orion-bus/orion-iii-(ikarus).webp",
+      "no-candidates"
+    ],
+    [
+      "ORION BUS",
+      "Orion V",
+      "/image/vehicles/orion-bus/orion-v.webp",
+      "no-candidates"
+    ],
+    [
+      "ORION BUS",
+      "Orion VI",
+      "/image/vehicles/orion-bus/orion-vi.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Rescue",
+      "/image/vehicles/oshkosh/rescue.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Defense - Light",
+      "/image/vehicles/oshkosh/defense---light.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Defense - Medium",
+      "/image/vehicles/oshkosh/defense---medium.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Light (Class 6) Series",
+      "/image/vehicles/oshkosh/light-(class-6)-series.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Military (HEMTT, HET, PLS, LVS, FMTV) Series",
+      "/image/vehicles/oshkosh/military-(hemtt,-het,-pls,-lvs,-fmtv)-series.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Truck",
+      "/image/vehicles/oshkosh/truck.webp",
+      "no-candidates"
+    ],
+    [
+      "OSHKOSH",
+      "Oshkosh Trailer",
+      "/image/vehicles/oshkosh/oshkosh-trailer.webp",
+      "no-candidates"
+    ],
+    [
+      "PETERBILT",
+      "365",
+      "/image/vehicles/peterbilt/365.webp",
+      "no-candidates"
+    ],
+    [
+      "PONTIAC",
+      "Montana SV6",
+      "/image/vehicles/pontiac/montana-sv6.webp",
+      "no-candidates"
+    ],
+    [
+      "SEAGRAVE",
+      "Ladder",
+      "/image/vehicles/seagrave/ladder.webp",
+      "no-candidates"
+    ],
+    [
+      "TERN",
+      "New 4900 Chassis",
+      "/image/vehicles/tern/new-4900-chassis.webp",
+      "no-candidates"
+    ],
+    [
+      "WESTERN STAR",
+      "49X RHD Chassis",
+      "/image/vehicles/western-star/49x-rhd-chassis.webp",
+      "no-candidates"
+    ],
+    [
+      "WHITE",
+      "High Cab Over Short",
+      "/image/vehicles/white/high-cab-over-short.webp",
+      "no-candidates"
+    ]
+  ]
+}
