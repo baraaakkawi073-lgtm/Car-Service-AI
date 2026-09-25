@@ -1,4 +1,4 @@
-﻿{
+{
   "_comment": "Verified local model photographs and logo provenance. Model photos do not establish year, body variant or market.",
   "_instructions": "Sources, licences and verified paths are recorded below. Unresolved or ambiguous records must not be used as fallbacks. Generated frontend map: src/ai_report/static/vehicle_assets.js.",
   "brands": {
@@ -13853,7 +13853,7 @@
           "status": "missing",
           "reason": "No matching Commons photograph"
         },
-        "88ï¿½ WB": {
+        "88 WB": {
           "verifiedModel": true,
           "scope": "model",
           "year": null,
@@ -13861,7 +13861,7 @@
           "sourceType": "wikimedia_commons",
           "imageSource": "Wikimedia Commons",
           "status": "downloaded",
-          "path": "/image/vehicles/land-rover/88ï¿½-wb.webp",
+          "path": "/image/vehicles/land-rover/88-wb.webp",
           "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/1961_Land_Rover_Series_IIA_88_%2823619040134%29.jpg/960px-1961_Land_Rover_Series_IIA_88_%2823619040134%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:1961_Land_Rover_Series_IIA_88_(23619040134).jpg",
           "attribution": "Jeremy from Sydney, Australia",
@@ -45362,7 +45362,7 @@
           "status": "missing",
           "reason": "No matching Commons photograph"
         },
-        "88ï¿½ WB": {
+        "88 WB": {
           "verifiedModel": true,
           "scope": "model",
           "year": null,
@@ -45370,7 +45370,7 @@
           "sourceType": "wikimedia_commons",
           "imageSource": "Wikimedia Commons",
           "status": "downloaded",
-          "path": "/image/vehicles/land-rover-santana/88ï¿½-wb.webp",
+          "path": "/image/vehicles/land-rover-santana/88-wb.webp",
           "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/1977_Land_Rover_Santana_88_%287425911946%29.jpg/960px-1977_Land_Rover_Santana_88_%287425911946%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:1977_Land_Rover_Santana_88_(7425911946).jpg",
           "attribution": "Spanish Coches",
@@ -53315,7 +53315,7 @@
           "status": "missing",
           "reason": "No matching Commons photograph"
         },
-        "88ï¿½ WB": {
+        "88 WB": {
           "verifiedModel": true,
           "scope": "model",
           "year": null,
@@ -53323,7 +53323,7 @@
           "sourceType": "wikimedia_commons",
           "imageSource": "Wikimedia Commons",
           "status": "downloaded",
-          "path": "/image/vehicles/santana/88ï¿½-wb.webp",
+          "path": "/image/vehicles/santana/88-wb.webp",
           "sourceUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/1982_Land_Rover_Santana_88_Ligero_%286121626725%29.jpg/960px-1982_Land_Rover_Santana_88_Ligero_%286121626725%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
           "sourcePage": "https://commons.wikimedia.org/wiki/File:1982_Land_Rover_Santana_88_Ligero_(6121626725).jpg",
           "attribution": "Spanish Coches",
